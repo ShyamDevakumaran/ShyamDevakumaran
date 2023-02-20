@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <br/>
 <p align="left">
-  <a href="https://abhigyantrips.dev/">
+  <a href="https://ShyamDevakumaran.dev/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ShyamDevakumaran&show_icons=true&locale=en" alt="ShyamDevakumaran" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShyamDevakumaran&" alt="ShyamDevakumaran" />
   </a>
