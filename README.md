@@ -1,4 +1,4 @@
-<h1 align="center" style="background-color:#fff;">Hi 👋, I'm SHYAM DEVAKUMARAN</h1>
+<h1 align="center" style="background-color:#fff;">Hi 👋, I'm SHYAM DEVAKUMARAN </h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shyamdevakumaran&label=Profile%20views&color=0e75b6&style=flat" alt="shyamdevakumaran" /> </p>
