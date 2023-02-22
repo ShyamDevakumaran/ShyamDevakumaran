@@ -1,7 +1,9 @@
 <h1 align="center" >Hi , I'm SHYAM DEVAKUMARAN<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30"></h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F723F7&width=435&lines=Computer+Science++Student++;Full+Stack+Developer+;ReactJs+%2C+Django+%2C+Mysql+%2C+Rest+API" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F723F7&width=435&lines=Computer+Science++Student++" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F723F7&width=435&lines=Full+Stack+Developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F723F7&width=435&lines=ReactJs+%2C+Django+%2C+MySql+%2C+Rest+API" alt="Typing SVG" /></a>
 </p>
 
 
