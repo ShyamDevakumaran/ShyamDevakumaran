@@ -1,5 +1,9 @@
-<h1 align="center" style="background-color:#fff;">Hi 👋, I'm SHYAM DEVAKUMARAN </h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h1 align="center" >Hi , I'm SHYAM DEVAKUMARAN<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30"></h1>
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poor+Story&size=40&pause=1000&color=06B7FF&vCenter=true&multiline=true&width=600&height=150&lines=Computer+Science+Student;Passionate+Android+Application+Developer" alt="Typing SVG" /></a>
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shyamdevakumaran&label=Profile%20views&color=0e75b6&style=flat" alt="shyamdevakumaran" /> </p>
 
